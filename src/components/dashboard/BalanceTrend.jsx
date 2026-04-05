@@ -3,7 +3,7 @@ import React, { useMemo } from "react";
 import { useApp } from "../../context/AppContext";
 import {
   ResponsiveContainer, ComposedChart, Area, Bar, XAxis, YAxis,
-  CartesianGrid, Tooltip, Legend,
+  CartesianGrid, Tooltip,
 } from "recharts";
 import { getMonthlyData } from "../../data/mockData";
 import { formatCurrency } from "../../utils/format";
