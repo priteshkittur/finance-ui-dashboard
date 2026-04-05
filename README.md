@@ -6,7 +6,7 @@ A clean, interactive finance dashboard built with **React 18**, **Tailwind CSS**
 
 ## Live Preview
 
-> After setup, runs at `http://localhost:3000`
+> https://finance-ui-dashboard-3kngjm6ve-priteshkitturs-projects.vercel.app/
 
 ---
 
