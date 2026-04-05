@@ -1,5 +1,10 @@
 import React from "react";
-
+import { AppProvider, useApp } from "./context/AppContext";
+import Sidebar from "./components/layout/Sidebar";
+import Topbar from "./components/layout/Topbar";
+import DashboardPage from "./components/dashboard/DashboardPage";
+import TransactionsPage from "./components/transactions/TransactionsPage";
+import InsightsPage from "./components/insights/InsightsPage";
 
 function PageRenderer() {
   const { state } = useApp();
